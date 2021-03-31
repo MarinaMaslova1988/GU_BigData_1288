@@ -1,0 +1,3 @@
+C:\Users\avmas>mysql -u root -p keyword < help_keyword.sql
+Enter password: *********
+ERROR 3723 (HY000) at line 25: The table 'help_keyword' may not be created in the reserved tablespace 'mysql'.
